@@ -1,2 +1,2 @@
-# Expressoes_Booleanas
-Programas em Python utilizando operadores aritméticos e lógicos.
+# Boolean_Expressions
+Python programs using arithmetic and logical operators.
