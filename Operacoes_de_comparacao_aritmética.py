@@ -1,6 +1,6 @@
 '''<<<Expressões Booleanas>>>'''
 
-'''Exemplos de Operações de comparação Aritmética.'''
+'''Exemplos de Operações de Comparações Aritméticas.'''
 
 idade = 15
 
